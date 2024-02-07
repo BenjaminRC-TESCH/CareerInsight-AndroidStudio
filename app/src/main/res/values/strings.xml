@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Test Cetis96</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="instrucciones">
+        El presente cuestionario fue elaborado por el profesor Luis Herrera y Montes, te ayudará a definir e identificar tus intereses y aptitudes de manera más precisa. Es necesario que contestes con sinceridad cada una de las preguntas que aquí se hacen con el fin de obtener mejores resultados. Tus respuestas las debes escribir en una sola sesión, es decir, desde el momento que inicies no deberás interrumpir la actividad hasta finalizar las 60 preguntas que ahí aparecen, de lo contrario, el resultado tendrá variaciones y será menos preciso.\n\n
+        Recuerda que este cuestionario, como su nombre lo indica, te cuestiona sobre algunas actividades y pretende que a través de tus respuestas puedas diferenciar tus intereses de acuerdo con las diferentes escalas que lo componen.\n\n
+        En la medida que vayas leyendo cada pregunta, piensa ¿qué tanto te gustaría hacer….?, posteriormente, selecciona una opción, según la escala que aparece a continuación:\n\n
+        4 Me gusta mucho,\n
+        3 Me gusta algo o en parte,\n
+        2 Me es indiferente, pues ni me gusta, ni me disgusta,\n
+        1 Me desagrada algo o en parte,\n
+        0 Me desagrado mucho o totalmente.
+    </string>
+    <string name="aviso">
+        Los datos de carácter personal que se recopilan dentro de esta Página de Registro Web, denominada “TEST DE ORIENTACIÓN VOCACIONAL”, que usted mismo proporciona de manera voluntaria, serán utilizados única y exclusivamente con la finalidad y el objetivo de obtener información sobre la carrera que podría estudiar dentro de esta Institución Educativa de acuerdo a su Perfil Vocacional como persona.
+        Por tanto, desde este momento en que usted proporciona sus datos considerados de carácter personal, tal como lo es el nombre, edad, grado, grupo, carrera, entre otros, el Centro de Estudios Tecnológicos Industrial y de Servicios No 96, se compromete a la debida recopilación, tratamiento, almacenamiento, cuidado, salvaguarda y protección de los mismos, con las medidas de seguridad técnicas y administrativas establecidas en materia legal corresponde.
+    </string>
+
+</resources>
